@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Assaf Omo
-    subtitle: Wallak lo tov be klum.
+    subtitle: 'Wallak lo tov be klum, afilu lo fontim.'
     actions:
       - label: Learn More
         url: /features
